@@ -15,4 +15,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyres110&layout=compact)
 
-![Ramyres wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ramyres110w)
+![Ramyres wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ramyres110w&layout=compact)
