@@ -16,3 +16,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyres110&layout=compact)
 
 ![Ramyres wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ramyres110w&layout=compact)
+
+<!-- 
+[![dockeri.co](https://dockeri.co/image/ramyres110/discoapi)](https://hub.docker.com/r/ramyres110/discoapi)
+[![GitHub issues](https://img.shields.io/github/issues/nodejs/docker-node.svg "GitHub issues")](https://github.com/nodejs/docker-node)
+[![GitHub stars](https://img.shields.io/github/stars/nodejs/docker-node.svg "GitHub stars")](https://github.com/nodejs/docker-node) 
+-->
