@@ -2,8 +2,6 @@
 
 # I'm Ramyres, thank you for coming here...
 
-![Profile views](https://gpvc.arturio.dev/ramyres110)  
-
 - 🔭 I'm currently working at [**Totvs**](https://www.totvs.com/)
 - 🌱 I'm currently learning **Cloud, Agile & Scrum, DevOps, Infrastructure as Code, Software Architecture and How To Live Better**
 - 👯 I'm looking to collaborate on **Open Source Projects that make some diference for the peoples of the world**
@@ -16,9 +14,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramyres110&layout=compact)
 
 ![Ramyres wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ramyres110w&layout=compact)
-
-<!-- 
-[![dockeri.co](https://dockeri.co/image/ramyres110/discoapi)](https://hub.docker.com/r/ramyres110/discoapi)
-[![GitHub issues](https://img.shields.io/github/issues/nodejs/docker-node.svg "GitHub issues")](https://github.com/nodejs/docker-node)
-[![GitHub stars](https://img.shields.io/github/stars/nodejs/docker-node.svg "GitHub stars")](https://github.com/nodejs/docker-node) 
--->
